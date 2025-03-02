@@ -3,6 +3,7 @@ package day01_commit_push_pull;
 public class Table {
     public static void main(String[] args) {
         multiplicationTable(3);
+        multiplicationTable();
     }
 
         /*
@@ -23,4 +24,4 @@ public class Table {
         }
     }
 
-}
+
