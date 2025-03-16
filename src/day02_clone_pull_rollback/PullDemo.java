@@ -6,5 +6,7 @@ public class PullDemo {
         System.out.println("Hello From teammate who pushed to github");
 
         System.out.println("Hello From another friend who pushed to github");  
+
+        System.out.println("Hello From another team friend who pushed at line 10");  
     }
 }
