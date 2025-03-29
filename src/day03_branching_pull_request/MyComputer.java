@@ -8,4 +8,5 @@ public class MyComputer {
         this.model = model;
         this.price = price;
     }
+
 }
